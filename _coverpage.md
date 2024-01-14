@@ -1,6 +1,6 @@
 <img width="180px" style="border-radius: 50%" bor src="image/head.jpg">
 
-# WZ的技术栈
+# Dante的技术栈
 
 - 本文档是作者从 ```2024年``` 以来的学习历程，旨在记录自己的学习历程，给未来的自己留下一个数据库！
 
