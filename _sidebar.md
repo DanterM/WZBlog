@@ -7,7 +7,7 @@
   * [Paper2](/0-Paper/2.md)
   * [Paper3](/0-Paper/3.md)
 * Math
-  * [Mathtematical Analysis](/1-Math/数学分析.md)
+  * [Mathematical Analysis](/1-Math/数学分析.md)
   * [Linear Algebra](/1-Math/线性代数.md)
   * [Probability Theory](/1-Math/概率论.md)
   * [Operational Research](/1-Math/概率论.md)
