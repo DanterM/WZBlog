@@ -1,6 +1,11 @@
+## Github Page
+
+<https://danterm.github.io/WZBlog/>
+
 # TODO
 
-- [x] 框架
+- [x] Constructe Framework
+- [ ] Upload to Github Pages
 - [ ] Paper1
 - [ ] Paper2
 - [ ] Paper3
@@ -19,5 +24,3 @@ docsify init Blog
 ```terminal
 docsify serve Blog
 ```
-
-Go <http://localhost:3000>
